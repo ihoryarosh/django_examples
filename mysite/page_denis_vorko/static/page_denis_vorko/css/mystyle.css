@@ -1,3 +1,18 @@
 body {
-background: #ccff00;
+background: #ccffff;
+}
+.nav-link {
+	color: #fff;
+}
+.nav {
+	justify-content: space-between;
+	padding: 0 50px;
+
+}
+.nav-item {
+	padding-left: 120px;
+}
+.row {
+	justify-content: space-around;
+	margin-top: 50px;
 }
