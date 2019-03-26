@@ -24,4 +24,5 @@ urlpatterns = [
     path('', include('mainApp.urls')),
     path('bootstrap/', include('bootstrap.urls')),
     path('news/', include('news.urls')),
+    path('page_denis_vorko/', include('page_denis_vorko.urls')),
 ]

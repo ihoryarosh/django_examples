@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'mainApp',
     'bootstrap',
     'news',
+    'page_denis_vorko',
 ]
 
 MIDDLEWARE = [
@@ -107,9 +108,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru-RU'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Zaporozhye'
 
 USE_I18N = True
 
