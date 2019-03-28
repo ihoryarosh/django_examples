@@ -1,6 +1,7 @@
 from django.shortcuts import render
+from .models import Job
 
 # Create your views here.
 def index(request):
-    number = [i for i in range(27)]
-    return render(request, 'page_denis_vorko/index.html', context={'numbers':number})
+    jobs = Job.objects.all()
+    return render(request, 'page_denis_vorko/index.html', context={'jobs':jobs})

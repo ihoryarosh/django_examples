@@ -1,26 +1,28 @@
 {% extends 'page_denis_vorko/wrapper.html' %}
-
+{% block title %}
+	Vorko-Home
+{% endblock %}
 
 {% block content %}
-<div class="container-fluid, zagolovok">
+
+<div class="container-fluid mt-4 col-md-6 offset-md-4">
       <h1>Работы автора</h1>
     </div>
 <div class="container-fluid">
 	<div class="row">
 
-		{% for cont in numbers %}
+		{% for job in jobs %}
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="img">
 					  <div class="card-body">
-					    <h5 class="card-title">Карточка № {{cont}}</h5>
-					    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-					    <a href="#" class="btn btn-primary">Переход куда-нибудь</a>
+					    <h5 class="card-title">{{job.title}}</h5>
+					    <p class="card-text">{{job.manual}}<br>{{job.date_pub}}</p>
+					    <a href="{% url 'index' %}" class="btn btn-primary">Подробнее &raquo</a>
 					  </div>
 			</div>
 		{% endfor %}
 
 	</div>
 </div>	
-<p>include content</p>
 
 {% endblock %}
