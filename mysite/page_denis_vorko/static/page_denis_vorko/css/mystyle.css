@@ -16,3 +16,9 @@ background: #ccffff;
 	justify-content: space-around;
 	margin-top: 50px;
 }
+img.icon {
+	width: 10rem;
+	height: 3rem;
+	border-radius: .5rem;
+
+}
