@@ -15,7 +15,9 @@
         <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
+
               <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
+
             </state>
           </provider>
         </entry>
@@ -23,8 +25,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="345">
               <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+
             </state>
           </provider>
         </entry>
@@ -95,7 +99,22 @@
               <item name="django_examples" type="462c0819:PsiDirectoryNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="page_denis_vorko" type="462c0819:PsiDirectoryNode" />
+
             </path>
+            <path>
+              <item name="django_examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
               <item name="django_examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="django_examples" type="462c0819:PsiDirectoryNode" />
@@ -187,7 +206,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
     <option name="totallyTimeSpent" value="2596000" />
+
+
+
   </component>
   <component name="ToolWindowManager">
     <frame x="497" y="80" width="1400" height="1000" extended-state="1" />
@@ -294,6 +317,7 @@
     <entry file="file://$PROJECT_DIR$/mysite/static/page_denis_vorko/css/mystyle.css" />
     <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="930">
           <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
         </state>
@@ -303,13 +327,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="345">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+
+       
+         
         </state>
       </provider>
     </entry>
