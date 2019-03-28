@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63defe68-53a5-4d8b-aa93-989ffd7b6f61" name="Default Changelist" comment="" />
+    <list default="true" id="63defe68-53a5-4d8b-aa93-989ffd7b6f61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/django_examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/page_denis_vorko/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/views.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/venv/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,30 +23,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-
-              <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
-
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css">
+        <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-
+            <state relative-caret-position="330">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html">
+        <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -63,19 +68,18 @@
         <option value="$PROJECT_DIR$/mysite/page_denis_vorko/page_denis_vorko.urls.py" />
         <option value="$PROJECT_DIR$/mysite/page_denis_vorko/urls.py" />
         <option value="$PROJECT_DIR$/mysite/mainApp/templates/mainApp/wrapper.html" />
-        <option value="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html" />
-        <option value="$PROJECT_DIR$/mysite/page_denis_vorko/views.py" />
         <option value="$PROJECT_DIR$/mysite/static/page_denis_vorko/css/mystyle.css" />
-        <option value="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html" />
         <option value="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css" />
+        <option value="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html" />
+        <option value="$PROJECT_DIR$/mysite/page_denis_vorko/views.py" />
+        <option value="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="497" />
-    <option name="y" value="80" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="1280" />
+    <option name="height" value="937" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -99,22 +103,7 @@
               <item name="django_examples" type="462c0819:PsiDirectoryNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="page_denis_vorko" type="462c0819:PsiDirectoryNode" />
-
             </path>
-            <path>
-              <item name="django_examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django_examples" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
             <path>
               <item name="django_examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="django_examples" type="462c0819:PsiDirectoryNode" />
@@ -159,7 +148,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,6 +184,7 @@
       <workItem from="1553762929806" duration="17000" />
       <workItem from="1553765861856" duration="62000" />
       <workItem from="1553766672739" duration="2349000" />
+      <workItem from="1553795922558" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="add vorko page into site">
       <created>1553596596830</created>
@@ -206,19 +197,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-
-    <option name="totallyTimeSpent" value="2596000" />
-
-
-
+    <option name="totallyTimeSpent" value="5426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="497" y="80" width="1400" height="1000" extended-state="1" />
+    <frame x="-1280" y="24" width="1280" height="937" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26440176" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.29254457" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32990867" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3436754" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32990867" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -300,13 +288,6 @@
     <entry file="file://$PROJECT_DIR$/mysite/mainApp/views.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/mainApp/templates/mainApp/wrapper.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -315,30 +296,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/static/page_denis_vorko/css/mystyle.css" />
-    <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html">
+    <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="930">
-          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
-
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css">
+    <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/views.py">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-
-       
-         
+        <state relative-caret-position="75">
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -14,11 +14,14 @@ background: #ccffff;
 }
 .row {
 	justify-content: space-around;
-	margin-top: 50px;
+	margin-top: 1rem;
 }
 img.icon {
 	width: 10rem;
 	height: 3rem;
 	border-radius: .5rem;
 
+}
+div.card {
+	margin-top: 1rem;
 }
