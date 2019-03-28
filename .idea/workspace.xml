@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63defe68-53a5-4d8b-aa93-989ffd7b6f61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/img/facebook.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/img/facebook1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/img/instagram.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/img/instagram1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/static/page_denis_vorko/css/mystyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/page_denis_vorko/templates/page_denis_vorko/wrapper.html" afterDir="false" />
-    </list>
+    <list default="true" id="63defe68-53a5-4d8b-aa93-989ffd7b6f61" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +174,7 @@
       <workItem from="1553762557940" duration="168000" />
       <workItem from="1553762929806" duration="17000" />
       <workItem from="1553765861856" duration="62000" />
-      <workItem from="1553766672739" duration="1994000" />
+      <workItem from="1553766672739" duration="2349000" />
     </task>
     <task id="LOCAL-00001" summary="add vorko page into site">
       <created>1553596596830</created>
@@ -195,7 +187,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2241000" />
+    <option name="totallyTimeSpent" value="2596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="497" y="80" width="1400" height="1000" extended-state="1" />
