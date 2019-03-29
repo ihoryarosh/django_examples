@@ -2,7 +2,7 @@
 {% block title %}
 	Vorko-Home
 {% endblock %}
-
+{% load staticfiles %}
 {% block content %}
 
 <div class="container-fluid mt-4 col-md-6 offset-md-4">
@@ -12,8 +12,9 @@
 	<div class="row">
 
 		{% for job in jobs %}
+
 			<div class="card" style="width: 18rem;">
-			  <img src="..." class="card-img-top" alt="img">
+			  <img src="{{job.image}}" class="card-img-top" alt="img">
 					  <div class="card-body">
 					    <h5 class="card-title">{{job.title}}</h5>
 					    <p class="card-text">{{job.manual}}<br>{{job.date_pub}}</p>
